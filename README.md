@@ -1,6 +1,11 @@
 # merge_rebase_experiments
 junk repo, I'm just experimenting with merge and rebase operations
 
+# started a second feature branch
+I have started a 2nd feature branch from the main branch.  
+This feature branch was created before the first feature branch was merged into the main branch.  
+I am going to merge the 1st feature branch into the main branch next.
+
 # adding some text to the read me
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Volutpat lacus laoreet non curabitur gravida. Laoreet id donec ultrices tincidunt. Dignissim diam quis enim lobortis scelerisque fermentum dui faucibus in. Ut eu sem integer vitae justo eget. Dui id ornare arcu odio ut sem nulla. Nunc sed augue lacus viverra. Bibendum est ultricies integer quis. Vehicula ipsum a arcu cursus vitae congue mauris rhoncus aenean. Quis blandit turpis cursus in. Risus ultricies tristique nulla aliquet enim tortor at. Quam id leo in vitae turpis massa. Convallis tellus id interdum velit laoreet. Et netus et malesuada fames ac. Dui faucibus in ornare quam viverra orci sagittis. Magna fermentum iaculis eu non diam phasellus vestibulum. Egestas pretium aenean pharetra magna ac placerat vestibulum. Lacus vestibulum sed arcu non. Nunc sed blandit libero volutpat sed cras.
 
